@@ -22,7 +22,7 @@ protected:
 	vector<shared_ptr<LevelText>> vec_Text;
 	vector<shared_ptr<oTrigg>> vec_Trigg;
 
-public:
+public: 
 	
 	oLevel(void) : word_count(0)
 	{
